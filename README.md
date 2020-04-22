@@ -6,5 +6,5 @@ Worum geht es in dem Projekt **Travel ID**?
 * App mit Endkunden-Profilen, Management des Bonusprogramms, Darstellung der Partnerhotels, insbesondere auch Persona Analyse.
 
 ## Wiki
-Unser Projekt-Wiki: [Wiki](/home)
+Unser Projekt-Wiki: [Wiki](se2-wif-20/travelid/wiki/home)
 
