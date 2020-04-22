@@ -8,3 +8,8 @@ Worum geht es in dem Projekt **Travel ID**?
 ## Wiki
 Unser Projekt-Wiki: [Wiki](https://inf-git.fh-rosenheim.de/se2-wif-20/travelid/-/wikis/home)
 
+## Issue Board
+[Issue Board](https://inf-git.fh-rosenheim.de/se2-wif-20/travelid/-/boards)
+
+## Current Milestone
+[Q1 - Planung](https://inf-git.fh-rosenheim.de/se2-wif-20/travelid/-/milestones/2)
